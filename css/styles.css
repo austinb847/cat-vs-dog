@@ -3,3 +3,10 @@ img {
   padding: 10px;
 }
 
+.green-background {
+  background-color: greenyellow;
+}
+
+.brown-background {
+  background-color: burlywood;
+}
